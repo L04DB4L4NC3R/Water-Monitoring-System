@@ -7,6 +7,8 @@
 		var ctx = canvas.getContext('2d');
 		canvas.width = config.cvs_config.width;
 		canvas.height = config.cvs_config.height;
+		
+		/***YourSohail***/
 
         /****剪切内圆画布***/
 		ctx.save();
