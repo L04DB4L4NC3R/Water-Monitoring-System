@@ -4,9 +4,9 @@ This Water Monitoring System is an IOT based Liquid Level Monitoring system that
 
 The other components required are:<br>
 ● AVR family microcontroller <br>
-● LCD screen<br>
-● Wifi modem<br>
-● A buzzer<br>
-● 12V transformer<br>
+● LCD screen <br>
+● Wifi modem <br>
+● A buzzer <br>
+● 12V transformer <br>
 
-The status of the system could be monitored by an LCD screen or a web page that provides a brilliant graphical representation. Colours are used to depict various scenarios with respect to the amount of liquid in the tanks or containers and the buzzer buzzes when the limit exceeds the permissible quantity of fill.
+The status of the system could be monitored by an LCD screen or a web page that provides a brilliant graphical representation. Colours are used to depict various scenarios with respect to the amount of liquid in the tanks or containers and the buzzer buzzes when the limit exceeds the permissible quantity of fill .
